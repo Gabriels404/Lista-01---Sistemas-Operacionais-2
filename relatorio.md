@@ -2,7 +2,7 @@
 
 **Disciplina:** Programação Concorrente  
 **Linguagem:** C (Windows API – `CreateThread`, `CRITICAL_SECTION`, `CONDITION_VARIABLE`)  
-**Autores:** (insira os nomes do grupo)
+**Autores:** Gabriel Soares Cintra
 
 ---
 
